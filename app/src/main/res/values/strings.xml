@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_text">Benarkah konstantinopel merupakan kota terbesar di Turki?</string>
+    <string name="true_button">Benar</string>
+    <string name="false_button">Salah</string>
+    <string name="correct_toast">Jawaban benar!</string>
+    <string name="incorrect_toast">Jawaban salah!</string>
+    <string name="menu_settings">Settings</string>
+</resources>

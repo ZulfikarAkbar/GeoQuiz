@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/asuspc/AndroidStudioProjects/GeoQuiz2/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/asuspc/AndroidStudioProjects/GeoQuiz2/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/asuspc/AndroidStudioProjects/GeoQuiz2/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/asuspc/AndroidStudioProjects/GeoQuiz2/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f7483f535be73f9ed0e4dd9593d27840/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/asuspc/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a736e9be876d7bbda4d7042615310119/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/04fec616e8e3c75b22243bd6cff9424f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/569a475b21b26f2806b1afabba5732de/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/6770bdcb6c5049afc242325e63476c89/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/c4d8dd7ba88c5da3a45f28290c8d93aa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/bff1f03d0b4edad2fba4f36c3ad146a4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/7a66ae9c59d1f889b5e4c99c2eec6eb3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/ca07f4c664512e016c72490e1b2ca5c7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/9ca685475ab2137cf8a89b8cadc3d22a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/b619349bdf55ea7e120c440878a44e4d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/83eed7c17c5b65253706741404258c2b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/8816d32681d937b7e6d545f09b5b1381/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/fbb97439dc31c7855cbb78a4e4063f2b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/4d9b4ce4c3d0dc1093142252bbdd97f4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ec5a33496e89b5353afce82d0f100ca6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/86cbf73153b7718724e3e8f0d6a386da/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/46295e5690ad427a29f80e0d69928c60/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/asuspc/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c4be0e6b09edef7eb04bb6bddcc4ce7e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/a277ed93666105f617787c2c80386149/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/a9bb5ae14e0497a0fe75f728c619b55d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/54a22224e52cc8ddb84515af14ac9b00/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/asuspc/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/3a464305f3a2827356113c20e9c763b4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/asuspc/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/9541ace16e59a59457be1f2391c2d31b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/asuspc/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/c74a377fd69d386f4cdedaec74e6b929/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/asuspc/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c1c7673afee68991e6d430c4658b1179/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/0d490d2da2d5cc347557d28cb12b58c5/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/asuspc/AndroidStudioProjects/GeoQuiz2/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/asuspc/AndroidStudioProjects/GeoQuiz2/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/asuspc/AndroidStudioProjects/GeoQuiz2/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/asuspc/AndroidStudioProjects/GeoQuiz2/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /home/asuspc/AndroidStudioProjects/GeoQuiz2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/asuspc/AndroidStudioProjects/GeoQuiz2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/asuspc/AndroidStudioProjects/GeoQuiz2/app/src/main/AndroidManifest.xml
+		ADDED from /home/asuspc/AndroidStudioProjects/GeoQuiz2/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/asuspc/AndroidStudioProjects/GeoQuiz2/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/asuspc/AndroidStudioProjects/GeoQuiz2/app/src/main/AndroidManifest.xml
+		ADDED from /home/asuspc/AndroidStudioProjects/GeoQuiz2/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/asuspc/AndroidStudioProjects/GeoQuiz2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/asuspc/AndroidStudioProjects/GeoQuiz2/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/asuspc/AndroidStudioProjects/GeoQuiz2/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/asuspc/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a736e9be876d7bbda4d7042615310119/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/asuspc/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a736e9be876d7bbda4d7042615310119/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ec5a33496e89b5353afce82d0f100ca6/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ec5a33496e89b5353afce82d0f100ca6/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/86cbf73153b7718724e3e8f0d6a386da/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/86cbf73153b7718724e3e8f0d6a386da/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ec5a33496e89b5353afce82d0f100ca6/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/asuspc/AndroidStudioProjects/GeoQuiz2/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/asuspc/AndroidStudioProjects/GeoQuiz2/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/asuspc/AndroidStudioProjects/GeoQuiz2/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/asuspc/AndroidStudioProjects/GeoQuiz2/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/asuspc/AndroidStudioProjects/GeoQuiz2/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/asuspc/AndroidStudioProjects/GeoQuiz2/app/src/main/AndroidManifest.xml:11:9-40
+activity#edu.mobcom.zulfikar.geoquiz.QuizActivity
+ADDED from /home/asuspc/AndroidStudioProjects/GeoQuiz2/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/asuspc/AndroidStudioProjects/GeoQuiz2/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/asuspc/AndroidStudioProjects/GeoQuiz2/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/asuspc/AndroidStudioProjects/GeoQuiz2/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/asuspc/AndroidStudioProjects/GeoQuiz2/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/asuspc/AndroidStudioProjects/GeoQuiz2/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/asuspc/AndroidStudioProjects/GeoQuiz2/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/asuspc/AndroidStudioProjects/GeoQuiz2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/asuspc/AndroidStudioProjects/GeoQuiz2/app/src/main/AndroidManifest.xml
+INJECTED from /home/asuspc/AndroidStudioProjects/GeoQuiz2/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f7483f535be73f9ed0e4dd9593d27840/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f7483f535be73f9ed0e4dd9593d27840/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/asuspc/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a736e9be876d7bbda4d7042615310119/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/asuspc/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a736e9be876d7bbda4d7042615310119/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/04fec616e8e3c75b22243bd6cff9424f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/04fec616e8e3c75b22243bd6cff9424f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/569a475b21b26f2806b1afabba5732de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/569a475b21b26f2806b1afabba5732de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/6770bdcb6c5049afc242325e63476c89/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/6770bdcb6c5049afc242325e63476c89/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/c4d8dd7ba88c5da3a45f28290c8d93aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/c4d8dd7ba88c5da3a45f28290c8d93aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/bff1f03d0b4edad2fba4f36c3ad146a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/bff1f03d0b4edad2fba4f36c3ad146a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/7a66ae9c59d1f889b5e4c99c2eec6eb3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/7a66ae9c59d1f889b5e4c99c2eec6eb3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/ca07f4c664512e016c72490e1b2ca5c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/ca07f4c664512e016c72490e1b2ca5c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/9ca685475ab2137cf8a89b8cadc3d22a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/9ca685475ab2137cf8a89b8cadc3d22a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/b619349bdf55ea7e120c440878a44e4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/b619349bdf55ea7e120c440878a44e4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/83eed7c17c5b65253706741404258c2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/83eed7c17c5b65253706741404258c2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/8816d32681d937b7e6d545f09b5b1381/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/8816d32681d937b7e6d545f09b5b1381/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/fbb97439dc31c7855cbb78a4e4063f2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/fbb97439dc31c7855cbb78a4e4063f2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/4d9b4ce4c3d0dc1093142252bbdd97f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/4d9b4ce4c3d0dc1093142252bbdd97f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ec5a33496e89b5353afce82d0f100ca6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ec5a33496e89b5353afce82d0f100ca6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/86cbf73153b7718724e3e8f0d6a386da/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/86cbf73153b7718724e3e8f0d6a386da/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/46295e5690ad427a29f80e0d69928c60/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/46295e5690ad427a29f80e0d69928c60/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/asuspc/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c4be0e6b09edef7eb04bb6bddcc4ce7e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/asuspc/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c4be0e6b09edef7eb04bb6bddcc4ce7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/a277ed93666105f617787c2c80386149/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/a277ed93666105f617787c2c80386149/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/a9bb5ae14e0497a0fe75f728c619b55d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/a9bb5ae14e0497a0fe75f728c619b55d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/54a22224e52cc8ddb84515af14ac9b00/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/54a22224e52cc8ddb84515af14ac9b00/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/asuspc/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/3a464305f3a2827356113c20e9c763b4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/asuspc/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/3a464305f3a2827356113c20e9c763b4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/asuspc/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/9541ace16e59a59457be1f2391c2d31b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/asuspc/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/9541ace16e59a59457be1f2391c2d31b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/asuspc/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/c74a377fd69d386f4cdedaec74e6b929/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/asuspc/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/c74a377fd69d386f4cdedaec74e6b929/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/asuspc/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c1c7673afee68991e6d430c4658b1179/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/asuspc/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c1c7673afee68991e6d430c4658b1179/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/0d490d2da2d5cc347557d28cb12b58c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/asuspc/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/0d490d2da2d5cc347557d28cb12b58c5/AndroidManifest.xml:20:5-44
+INJECTED from /home/asuspc/AndroidStudioProjects/GeoQuiz2/app/src/main/AndroidManifest.xml
+INJECTED from /home/asuspc/AndroidStudioProjects/GeoQuiz2/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/asuspc/AndroidStudioProjects/GeoQuiz2/app/src/main/AndroidManifest.xml
+		ADDED from /home/asuspc/AndroidStudioProjects/GeoQuiz2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/asuspc/AndroidStudioProjects/GeoQuiz2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/asuspc/AndroidStudioProjects/GeoQuiz2/app/src/main/AndroidManifest.xml
+		ADDED from /home/asuspc/AndroidStudioProjects/GeoQuiz2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/asuspc/AndroidStudioProjects/GeoQuiz2/app/src/main/AndroidManifest.xml

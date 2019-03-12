@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/asuspc/AndroidStudioProjects/GeoQuiz2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/asuspc/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ec5a33496e89b5353afce82d0f100ca6/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/home/asuspc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f7483f535be73f9ed0e4dd9593d27840/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}
