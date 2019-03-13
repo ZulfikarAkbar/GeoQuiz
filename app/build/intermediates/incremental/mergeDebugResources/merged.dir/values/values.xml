@@ -1604,7 +1604,13 @@
     <string name="false_button">Salah</string>
     <string name="incorrect_toast">Jawaban salah!</string>
     <string name="menu_settings">Settings</string>
-    <string name="question_text">Benarkah konstantinopel merupakan kota terbesar di Turki?</string>
+    <string name="next_button">Lanjut</string>
+    <string name="question_africa">Benarkah sungai nil berada di Mesir?</string>
+    <string name="question_america">Benarkah sungai amazon merupakan sungai terpanjang di amerika?</string>
+    <string name="question_asia">Benarkah danau Baikal merupakan danau tertua dan terdalam?</string>
+    <string name="question_mideast">Benarkah terusan Suez terhubung dengan laut merah dan samudra hindia?</string>
+    <string name="question_ocean">Benarkah samudra pasifik lebih luas daripada samudra atlantik?</string>
+    <string name="question_turkey">Benarkah konstantinopel merupakan kota terbesar di Turki?</string>
     <string name="search_menu_title">Search</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="true_button">Benar</string>
